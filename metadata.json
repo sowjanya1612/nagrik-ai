@@ -1,0 +1,6 @@
+{
+  "name": "Nagrik AI",
+  "description": "Smart Bharat Civic Companion. Empowering citizens with a scheme eligibility matcher, bilingual AI Chat Sathi, document readiness helper, and duplicate-merging complaint reporting.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
